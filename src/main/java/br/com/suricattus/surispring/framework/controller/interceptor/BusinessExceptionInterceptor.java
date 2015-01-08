@@ -35,6 +35,8 @@ import br.com.suricattus.surispring.jsf.util.FacesUtils;
  * @author Lucas Lins
  *
  */
+
+
 @Aspect
 @Component("br.com.suricattus.surispring.framework.controller.interceptor.BusinessExceptionInterceptor")
 public class BusinessExceptionInterceptor {
